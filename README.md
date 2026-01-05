@@ -11,7 +11,7 @@ JO 2024 Paris
 
 
 ## Ideas
-- Carte des sites, clicker sur un site bascule sur une autre page de graphes de ce site **CARTE** *assigned to Clément*
+- **[DONE]** Carte des sites, clicker sur un site bascule sur une autre page de graphes de ce site **CARTE** *assigned to Clément*
 - Évolution des médailles dans le temps par pays/continent (intéractif sur le temps) **HISTOGRAMME** (1) *assigned to Nikola*
 - Participation F/H **CERCLE?**
 - Nombre d'athelete par discipline **CERCLE?**

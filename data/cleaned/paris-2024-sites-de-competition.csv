@@ -1,0 +1,64 @@
+Nom_Site;Sports;point_geo;Nb_sports;link
+Stade de Marseille;Football (FBL);43.2698, 5.3959;1;Stade_de_Marseille.html
+Stade Geoffroy-Guichard;Football (FBL);45.4607, 4.3902;1;Stade_GeoffroyGuichard.html
+Arena Paris Sud 4;Tennis de table para (PTTE);48.830184, 2.289033;1;Arena_Paris_Sud_4.html
+Arena Paris Sud 6;Goalball (PGBL);48.829381, 2.290865;1;Arena_Paris_Sud_6.html
+Stade Tour Eiffel;Volley-ball de plage (VBV);48.85613, 2.2978;1;Stade_Tour_Eiffel.html
+Arena Champ de Mars;Para Judo (PJUD), Rugby fauteuil (PWRU);48.8531, 2.30252;2;Arena_Champ_de_Mars.html
+Arena Bercy;Basketball fauteuil (PWBK);48.83863, 2.378597;1;Arena_Bercy.html
+Site d’escalade du Bourget;Escalade (CLB);48.93693402, 2.41997931;1;Site_descalade_du_Bourget.html
+Arena Porte de la Chapelle;Para badminton (PBDM), Para Haltérophilie (PPWL);48.8997292, 2.3605141;2;Arena_Porte_de_la_Chapelle.html
+Stade Roland Garros;Tennis fauteuil (PWTE);48.845968, 2.253522;1;Stade_Roland_Garros.html
+Colline d’Elancourt;Cyclisme VTT (MTB);48.78981063, 1.9642379;1;Colline_dElancourt.html
+Invalides;Athlétisme - arrivée Marathon (ATM), Cyclisme sur route - départ Contre-la-montre (CRD), Tir à l'arc (ARC);48.85704803, 2.312835932;3;Invalides.html
+Stade nautique de Vaires-sur-Marne - stade d'eaux vives;Canoë-kayak slalom (CSL);48.86223209583829, 2.6395463613678416;1;Stade_nautique_de_VairessurMarne__stade_deaux_vives.html
+Invalides;Para Tir à l'arc (PARC), Para Athlétisme - arrivée Marathon (PATM);48.85704803, 2.312835932;2;Invalides.html
+Stade de la Beaujoire;Football (FBL);47.25593494, -1.52469927;1;Stade_de_la_Beaujoire.html
+Golf National;Golf (GLF);48.7532, 2.0758;1;Golf_National.html
+Parc des Princes;Football (FBL);48.84156974, 2.253048697;1;Parc_des_Princes.html
+Château de Versailles;Sports équestres - dressage (EQD), Sports équestres - concours complet (EQE), Sports équestres - saut d'obstacles (EQJ), Pentathlon moderne (MPN);48.81432266, 2.08452588;4;Chteau_de_Versailles.html
+Arena Champ de Mars;Judo (JUD), Lutte (WRE);48.8531, 2.30252;2;Arena_Champ_de_Mars.html
+Centre national de tir de Châteauroux;Para Tir Sportif (PSHO);46.8157, 1.7582;1;Centre_national_de_tir_de_Chteauroux.html
+Grand Palais;Escrime (FEN), Taekwondo (TKW);48.86616355, 2.3125474;2;Grand_Palais.html
+Stade nautique de Vaires-sur-Marne - bassin d'eaux calmes;Para Aviron (PROW), Para Canoë (PCSP);48.8623, 2.6348;2;Stade_nautique_de_VairessurMarne__bassin_deaux_calmes.html
+La Concorde;Parc Urbain la Concorde (FCO);48.86570357457259, 2.321214226315764;1;La_Concorde.html
+Arena Paris Sud 4;Tennis de table (TTE);48.830184, 2.289033;1;Arena_Paris_Sud_4.html
+Arena Bercy;Basketball (BKB), Gymnastique artistique (GAR), Gymnastique trampoline (GTR);48.83863, 2.378597;3;Arena_Bercy.html
+Stade BMX de Saint-Quentin-en-Yvelines;BMX Racing (BMX);48.78800979, 2.03498269;1;Stade_BMX_de_SaintQuentinenYvelines.html
+La Concorde 4;Skateboard (SKB);48.86573765, 2.3220383;1;La_Concorde_4.html
+Pont Alexandre III;Cyclisme sur route - arrivée Contre-la-montre (CRD), Natation marathon (OWS), Triathlon (TRI);48.8637, 2.3134;3;Pont_Alexandre_III.html
+La Courneuve;Para Athlétisme - départ Marathon (PATM);48.9372382, 2.3994101;1;La_Courneuve.html
+Stade de Nice;Football (FBL);43.7051, 7.1926;1;Stade_de_Nice.html
+Vélodrome National de Saint-Quentin-en-Yvelines;Para Cyclisme sur piste (PCTR);48.78800979, 2.03498269;1;Vlodrome_National_de_SaintQuentinenYvelines.html
+Clichy-sous-Bois;Para cyclisme sur route (PCRD);48.906345, 2.553544;1;ClichysousBois.html
+Marina de Marseille;Voile (SAL);43.2661, 5.3678;1;Marina_de_Marseille.html
+La Concorde 3;Skateboard (SKB);48.86486788, 2.32139191;1;La_Concorde_3.html
+Vélodrome National de Saint-Quentin-en-Yvelines;Cyclisme sur piste (CTR);48.78800979, 2.03498269;1;Vlodrome_National_de_SaintQuentinenYvelines.html
+Stade Yves-du-Manoir;Hockey (HOC);48.92934371, 2.24777122;1;Stade_YvesduManoir.html
+Hôtel de Ville;Athlétisme - départ Marathon (ATM);48.8563881, 2.35222203;1;Htel_de_Ville.html
+Stade de Lyon;Football (FBL);45.76514165, 4.98199275;1;Stade_de_Lyon.html
+Stade nautique de Vaires-sur-Marne - bassin d'eaux calmes;Aviron (ROW), Canoë - course en ligne (CSP);48.8623, 2.6348;2;Stade_nautique_de_VairessurMarne__bassin_deaux_calmes.html
+Paris La Défense Arena;Para Natation (PSWM);48.8954, 2.2294;1;Paris_La_Dfense_Arena.html
+Stade de Bordeaux;Football (FBL);44.8974, -0.5616;1;Stade_de_Bordeaux.html
+Centre national de tir de Châteauroux;Tir (SHO);46.8157, 1.7582;1;Centre_national_de_tir_de_Chteauroux.html
+La Concorde;Cérémonie d'ouverture Paralympique (POC);48.86570357457259, 2.321214226315764;1;La_Concorde.html
+Arena Paris Sud 1;Volley-ball (VVO);48.832968, 2.2840069;1;Arena_Paris_Sud_1.html
+Pont Alexandre III;Para Triathlon (PTRI);48.8637, 2.3134;1;Pont_Alexandre_III.html
+Arena Paris Nord;Volleyball assis (PVBS);48.9721, 2.5149;1;Arena_Paris_Nord.html
+Arena Paris Nord;Boxe (BOX), Pentathlon moderne (MDN);48.9721, 2.5149;2;Arena_Paris_Nord.html
+Tahiti Teahupo'o;Surf (SRF);-17.86693, -149.25208;1;Tahiti_Teahupoo.html
+Château de Versailles;Para Equitation (PEQU);48.81432266, 2.08452588;1;Chteau_de_Versailles.html
+Stade de France;Para Athlétisme (PATH), Cérémonie de clôture Paralympique (PCC);48.924475, 2.360127;2;Stade_de_France.html
+Arena Paris Sud 1;Boccia (PBOC);48.832968, 2.2840069;1;Arena_Paris_Sud_1.html
+Paris La Défense Arena;Natation (SWM), Water-polo (WPO);48.8954, 2.2294;2;Paris_La_Dfense_Arena.html
+La Concorde 1;Basketball 3x3 (BK3), Breaking (BKG);48.86640642, 2.32119515;2;La_Concorde_1.html
+Arena Paris Sud 6;Handball (HBL), Haltérophilie (WLF);48.829381, 2.290865;2;Arena_Paris_Sud_6.html
+Centre Aquatique;Natation artistique (SWA), Plongeon (DIV), Water-polo (WPO);48.923723, 2.35578;3;Centre_Aquatique.html
+La Concorde 2;BMX freestyle (BMF);48.86504456, 2.32119516;1;La_Concorde_2.html
+Stade Pierre Mauroy;Basketball (BKB), Handball (HBL);50.61190661, 3.13047318;2;Stade_Pierre_Mauroy.html
+Trocadéro;Athlétisme marche (ATW), Cyclisme sur route - Course sur route (CRD);48.85972558, 2.29221884;2;Trocadro.html
+Arena Porte de la Chapelle;Badminton (BDM), Gymnastique rythmique (GRY);48.8997292, 2.3605141;2;Arena_Porte_de_la_Chapelle.html
+Stade Roland Garros;Tennis (TEN), Boxe (BOX);48.845968, 2.253522;2;Stade_Roland_Garros.html
+Stade de France;Athlétisme (ATH), Rugby à 7 (RU7), Cérémonie de clôture (OCC);48.924475, 2.360127;3;Stade_de_France.html
+Stade Tour Eiffel;Cécifoot (PFBB);48.85613, 2.2978;1;Stade_Tour_Eiffel.html
+Grand Palais;Escrime fauteuil (PWFE), Para Taekwondo (PTKW);48.86616355, 2.3125474;2;Grand_Palais.html
