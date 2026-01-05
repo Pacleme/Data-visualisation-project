@@ -5,8 +5,8 @@ Projet multidisciplinaire E3 S1
 ## Subject 
 JO 2024 Paris
 ### Dataset ideas
-- [Sites de compétition](<https://www.data.gouv.fr/datasets/paris-2024-sites-de-competition/>)
-- [Athlètes olympiques et paralympiques](<https://www.data.gouv.fr/datasets/paris-2024-liste-des-athletes-engages-aux-jeux-olympiques-et-paralympiques/>)
+- [Sites de compétition](<https://www.data.gouv.fr/datasets/paris-2024-sites-de-competition/>) *used*
+- [Athlètes olympiques et paralympiques](<https://www.data.gouv.fr/datasets/paris-2024-liste-des-athletes-engages-aux-jeux-olympiques-et-paralympiques/>) *used*
 - [Medailles](<https://www.data.gouv.fr/datasets/paris-2024-resultats-des-medailles-pour-chaque-discipline-olympique/>)
 
 
@@ -15,7 +15,7 @@ JO 2024 Paris
 - Évolution des médailles dans le temps par pays/continent (intéractif sur le temps) **HISTOGRAMME** (1) *assigned to Nikola*
 - Participation F/H **CERCLE?**
 - Nombre d'athelete par discipline **CERCLE?**
-- Âge moyen par discipline **GRAPHE POINTS**
+- **[DONE]** Âge moyen par discipline **GRAPHE POINTS** *assigned to Clément*
 - x: age athlete, y: nb medailles(or only?) **POINTS**
 - Graphe sur le % du world record, une courbe par pays? **COURBE/POINTS**
 - Notre "guiness world records" liste de stats marrantes (ex: le pays avec le plus de ...) **LISTE**
