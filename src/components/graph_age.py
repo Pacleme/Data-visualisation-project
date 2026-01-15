@@ -26,7 +26,7 @@ def random_color():
     random.shuffle(rgbl)
     return tuple(rgbl)
 
-def multi_trace_age():
+def multi_trace_age(generate_html=False):
     age_data = pd.read_csv("data/cleaned/paris-2024-athletes-age.csv",delimiter=';')
     traces = []
     # Further processing and visualization can be added here
@@ -48,11 +48,13 @@ def multi_trace_age():
     layout = go.Layout( title="Age vs Discipline of Athletes", xaxis_title="Discipline", yaxis_title="Age", xaxis=go.layout.XAxis(), yaxis=go.layout.YAxis())
 
     fig = go.Figure(data=traces, layout=layout)
-    write_html(fig, file="fig_age.html", auto_open=False, include_plotlyjs="cdn")
+    if(generate_html):
+        write_html(fig, file="html/fig_age.html", auto_open=False, include_plotlyjs="cdn")
+    return fig
 
 
 if __name__ == "__main__":
     print("graph_age module")
 
     # process_age_data()
-    multi_trace_age()
+    multi_trace_age(generate_html=True)

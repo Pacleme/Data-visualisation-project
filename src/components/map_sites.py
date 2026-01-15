@@ -15,7 +15,7 @@ def process_sites_data():
 def link(str, linkk):
     return f'<a href="{linkk}">{str}</a>'
 
-def map_sites():
+def map_sites(generate_html=False):
     sites_data = pd.read_csv("data/cleaned/paris-2024-sites-de-competition.csv",delimiter=';')
 
     coords = (48.7190835,2.4609723)
@@ -37,7 +37,9 @@ def map_sites():
             # fill_color=cm(color)
         ).add_to(map)
 
-    map.save(outfile="map_sites.html")
+    if(generate_html):
+        map.save(outfile="html/map_sites.html")
+    return map
 
 def testFolium():
     # Create map
@@ -47,11 +49,11 @@ def testFolium():
     # Add PoI
     folium.Marker(location=coords, popup="ESIEE Paris").add_to(map)
 
-    map.save(outfile='map_test.html')
+    map.save(outfile='html/map_test.html')
 
 if __name__ == "__main__":
     print("map_sites module")
 
     # process_sites_data()
-    map_sites()
+    map_sites(generate_html=True)
     # testFolium()
